@@ -1,0 +1,22 @@
+
+/* styles sheet for Purdue Basketball */
+/* no clue how to get the background image to have a margin
+body  {
+
+      margin: 30px;
+      width: 960px;
+}
+*/
+span {
+        font-weight: bold;
+        font-size: 60px;
+        color: rgb(197, 179, 88);
+      }
+
+img { object-fit: cover;}
+
+.back {
+
+      background-image: url(ross.jpg);
+
+      }
